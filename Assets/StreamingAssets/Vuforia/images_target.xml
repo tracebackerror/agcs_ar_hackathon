@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pokemon" size="5.000000 7.075015" />
+    <ImageTarget name="complete_one" size="5.000000 6.470588" />
+    <ImageTarget name="diamond_vufoira" size="5.000000 6.470588" />
+    <ImageTarget name="dinosaur_cartoon" size="5.000000 6.470588" />
+    <ImageTarget name="02triangle" size="5.000000 3.000000" />
+    <ImageTarget name="01square" size="5.000000 3.000000" />
+    <ImageTarget name="frank-zhang-1152508-unsplash" size="5.000000 3.333333" />
+    <ImageTarget name="car" size="5.000000 3.769380" />
+    <ImageTarget name="unity_chan" size="5.000000 2.808917" />
+    <ImageTarget name="drone" size="100.000000 172.101456" />
+    <ImageTarget name="fissure" size="100.000000 172.101456" />
+    <ImageTarget name="oxygen" size="100.000000 172.101456" />
+    <ImageTarget name="astraunat" size="100.000000 172.101456" />
+  </Tracking>
+</QCARConfig>
