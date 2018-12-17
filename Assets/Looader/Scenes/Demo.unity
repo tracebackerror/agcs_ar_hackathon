@@ -7261,7 +7261,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 226, y: -17.5}
+  m_AnchoredPosition: {x: 400, y: -17.5}
   m_SizeDelta: {x: 114, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1031170939
@@ -7447,7 +7447,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TW3
+  m_Text: TRACK ONBOARDING
 --- !u!222 &1139013863
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8348,7 +8348,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NEW TUTORIALS!
+  m_Text: A Bit About Us
 --- !u!222 &1599878435
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9691,7 +9691,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 285, y: -17.5}
+  m_AnchoredPosition: {x: 386, y: -17.5}
   m_SizeDelta: {x: 94, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2116539819

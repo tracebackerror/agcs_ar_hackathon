@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/tracebackerror/Documents/ar_app/AndroidAppAR/agcs_app_v_0.4.apk
+C:/Users/tracebackerror/Documents/agcs_ar_hackathon/AndroidAppAR/agcs_app_v_0.8.apk
 SceneListBegin?
 Assets/Looader/Scenes/Demo.unity
 Assets/Scenes/ar_main.unity
@@ -258,6 +258,7 @@ d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 98d69a140ec0084cde3b6a5e09aea295 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.VuMarkIdToScene
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 3cb5de165b66eaf5aaa1e8de5c4e9e28 Assembly-CSharp.dll:.CloudRecoEventHandler
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
@@ -335,4 +336,3 @@ c1087bf328bbb39eba5a09f26c3b6368 Vuforia.UnityExtensions.dll:Vuforia.MultiTarget
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.VuMarkIdToScene
