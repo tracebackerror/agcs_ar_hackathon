@@ -2,5 +2,5 @@
 
 ![IMAGE](second_place.jpg)
 
-![IMAGE](peer_voting.jpg.jpg)
+![IMAGE](peer_voting.jpg)
 
