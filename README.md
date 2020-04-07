@@ -21,7 +21,6 @@ Rewards
 
 [AudioDemo](https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD)
 
-![IMAGE](second_place.jpg = 300x300)
-
-![IMAGE](peer_voting.jpg = 300x300)
+<img src="second_place.jpg" width="300">
+![IMAGE](./peer_voting.jpg = 300x300)
 
