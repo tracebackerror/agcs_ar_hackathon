@@ -16,11 +16,14 @@ Ex:
 
 Rewards
 ------
-:moneybag: INR 75000 - Runner Up Winner Rewards
-:moneybag: INR 25000 - Peer Voting Winner Rewards
+:moneybag: INR 75000 - Runner Up Winner Rewards  
+:moneybag: INR 25000 - Peer Voting Winner Rewards  
 
+Partial Demo
+------
 [AudioDemo](https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD)
 
-<img src="second_place.jpg" width="300">
-![IMAGE](./peer_voting.jpg = 300x300)
+<img src="second_place.jpg" width="500" alt= "Runner Up Award">
+<img src="peer_voting.jpg" width="500" alt= "Peer Voting Award">
+
 
