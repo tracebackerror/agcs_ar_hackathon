@@ -2,7 +2,7 @@
 
 Challenge
 ------
-> To develop a working prototype in one of three domains and proividing practical actional results to the Business units.
+> To develop a working prototype in one of three domains and providing practical actional results to the Business units.
 
 Our Team Solution
 ------
@@ -23,7 +23,7 @@ Partial Demo
 ------
 [AudioDemo](https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD)
 
-<img src="second_place.jpg" width="500" alt= "Runner Up Award">
-<img src="peer_voting.jpg" width="500" alt= "Peer Voting Award">
+<img src="./For Print/second_place.jpg" width="500" alt= "Runner Up Award">
+<img src="./For Print/peer_voting.jpg" width="500" alt= "Peer Voting Award">
 
 
