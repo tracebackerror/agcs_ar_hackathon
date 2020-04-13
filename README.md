@@ -1,4 +1,4 @@
-# 48 Hours Live Hackathon Winner
+# 48 Hours Live Hackathon 
 
 Challenge
 ------
@@ -21,10 +21,17 @@ Rewards
 
 Partial Demo
 ------
-[AudioDemo](https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD)
+Onboarding Bot Interaction(Click The Image Below):  
+<a href="https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD"><img src="./For Print/voice.png" alt="Play Demo"></a> 
 
 
-<img src="./For Print/second_place.jpg" width="500" alt= "Runner Up Award">
-<img src="./For Print/peer_voting.jpg" width="500" alt= "Peer Voting Award">
+UI Interface and AR:  
+<img src="./For Print/manual_instruction_output.gif" width="500" alt= "Runner Up Award">
+
+Backgrounds Hooks Call:  
+<img src="./For Print/data_store.png" width="500" alt= "Runner Up Award">
+
+<img src="./For Print/second_place.jpg" width="400" alt= "Runner Up Award">
+<img src="./For Print/peer_voting.jpg" width="400" alt= "Peer Voting Award">
 
 
