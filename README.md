@@ -22,6 +22,7 @@ Rewards
 Partial Demo
 ------
 [AudioDemo](https://drive.google.com/open?id=1QUUCyOnn6jWIsWhqs6zSxZsHKy2DjAAD)
+![OutputTest](./For Print/manual_instruction_output.gif)
 
 <img src="./For Print/second_place.jpg" width="500" alt= "Runner Up Award">
 <img src="./For Print/peer_voting.jpg" width="500" alt= "Peer Voting Award">
